@@ -1,0 +1,30 @@
+#miCanvas{
+
+    border: 2px solid rgb(190, 150, 110);
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 15px rgb(185, 140, 90);
+    border-radius: 8px;
+    margin-top: 100px;
+    cursor: none;
+}
+
+body{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 225, 200);
+
+}
+
+#barraVida{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 250px;
+    height: 300px;
+}
+
+body {
+    font-family: 'Pixelify Sans', sans-serif;
+}
